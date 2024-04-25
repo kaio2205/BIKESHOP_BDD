@@ -1,4 +1,4 @@
-# Estudo de caso do caso Bike Shop
+# Estudo  do caso Bike Shop
 
  
 
